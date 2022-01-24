@@ -1,2 +1,1 @@
-Hello, Hexlet!
-will this be added to commit after adding?
+Hello, Hexlet! How are you?
